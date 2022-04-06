@@ -1,7 +1,7 @@
 ---
 bibliography: "eaa2022_xronos_references.bib"
 ---
-Paper submission to the European Association of Archaeologists Annual Meeting, Budapest, 31 August – 3 September 2022  
+Paper to be presented at the European Association of Archaeologists Annual Meeting, Budapest, 31 August – 3 September 2022  
 Session #325, *"Open Science" in Archaeology and Heritage: Challenges and Future Perspectives*
 
 # XRONOS: challenges in building a global open repository for chronometric data
